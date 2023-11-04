@@ -3,3 +3,5 @@ Lib/*
 pyvenv.cfg
 .env
 bin/*
+backend/syllaback/db.sqlite3
+*.pyc
